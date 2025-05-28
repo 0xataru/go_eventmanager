@@ -1,10 +1,10 @@
 # Go Event Manager
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/0xataru/go_eventmanager)](https://goreportcard.com/report/github.com/0xataru/go_eventmanager)
-[![GoDoc](https://godoc.org/github.com/0xataru/go_eventmanager?status.svg)](https://godoc.org/github.com/0xataru/go_eventmanager)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/0xataru/go_eventmanager)](https://pkg.go.dev/github.com/0xataru/go_eventmanager)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Go Version](https://img.shields.io/badge/Go-1.24+-00ADD8?logo=go)](https://golang.org)
+[![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?logo=go)](https://golang.org)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/0xataru/go_eventmanager/actions)
 
 A lightweight, thread-safe event management system for Go applications that implements the publish-subscribe pattern.
